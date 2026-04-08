@@ -54,6 +54,7 @@
 ---
 
 ## 三、 输出格式指示 (Output Format)
+严格按照以下格式输出，不能错漏。
 
 ### 1. 思维链 (Thinking)（必选，在正文外显示）
 <details><summary>思考过程</summary>
