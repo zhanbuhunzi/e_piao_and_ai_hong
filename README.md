@@ -27,7 +27,7 @@
 ## 怎么用？
 
 1. 装好 [SillyTavern](https://github.com/SillyTavern/SillyTavern)
-2. 下载本仓库的 `epiao_aihong_world_card.json` 角色卡文件
+2. 下载本仓库的 `epiao_aihong_world_card.md` 角色卡文件
 3. 导入 → 开聊
 
 ## 我要怎么帮忙补充？
